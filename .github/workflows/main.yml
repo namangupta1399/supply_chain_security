@@ -1,3 +1,4 @@
+# Github action workflow
 name: Generate SBOM Report with Syft
 
 on:
